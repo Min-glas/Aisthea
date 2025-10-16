@@ -1,0 +1,17 @@
+com\mycompany\fashionproject\resources\JakartaEE10Resource.class
+com\aisthea\fashion\controller\ProductServlet.class
+com\aisthea\fashion\model\Product.class
+com\aisthea\fashion\utils\MailUtil$1.class
+com\aisthea\fashion\utils\MailUtil.class
+com\aisthea\fashion\model\Category.class
+com\aisthea\fashion\controller\ActivateServlet.class
+com\mycompany\fashionproject\JakartaRestConfiguration.class
+com\aisthea\fashion\dao\DBConnection.class
+com\aisthea\fashion\dao\UserDAO.class
+com\aisthea\fashion\controller\LoginServlet.class
+com\aisthea\fashion\controller\HomeServlet.class
+com\aisthea\fashion\dao\ProductDAO.class
+com\aisthea\fashion\utils\BCryptUtil.class
+com\aisthea\fashion\controller\RegisterServlet.class
+com\aisthea\fashion\model\User.class
+com\aisthea\fashion\controller\MailServlet.class
